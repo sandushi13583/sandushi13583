@@ -35,11 +35,6 @@ I’m an enthusiastic National Diploma in Technology - Information Technology st
 ![](https://github-profile-trophy.vercel.app/?username=sandushi13583&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
-</div>
-
 ### 🔝 Top Contributed Repo
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=sandushi13583&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
